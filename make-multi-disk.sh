@@ -33,10 +33,10 @@ mkfs.xfs -f -L slot14 -d sunit=128,swidth=128 /dev/sdo
 mkfs.xfs -f -L slot15 -d sunit=128,swidth=128 /dev/sdp
 
 
-for i in `seq 1 15`;
-do
-    mount -t xfs -L slot$i /bulk/ssd$i;
-done
+#for i in `seq 1 15`;
+#do
+#    mount -t xfs -L slot$i /bulk/ssd$i;
+#done
 
 #mount -t xfs -L slot1 /bulk/ssd1
 #mount -t xfs -L slot2 /bulk/ssd2
