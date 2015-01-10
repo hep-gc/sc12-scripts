@@ -2,7 +2,7 @@
 
 for i in `seq 1 12`;
 do
-    mount -t xfs -L fusion$i /bulk/fusion$i;
+    mount -t xfs -o nobarrier,noatime -L fusion$i /bulk/fusion$i;
 done
 
 

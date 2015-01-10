@@ -6,9 +6,6 @@
 /bulk/fusion1/050Gfile4.dat
 /bulk/fusion1/050Gfile5.dat
 /bulk/fusion1/050Gfile6.dat
-/bulk/fusion1/050Gfile7.dat
-/bulk/fusion1/050Gfile8.dat
-/bulk/fusion1/050Gfile9.dat
 /bulk/fusion1/050Gfile10.dat
 /bulk/fusion2/045Gfile.dat
 /bulk/fusion2/001Gfile.dat
@@ -19,9 +16,6 @@
 /bulk/fusion2/050Gfile4.dat
 /bulk/fusion2/050Gfile5.dat
 /bulk/fusion2/050Gfile6.dat
-/bulk/fusion2/050Gfile7.dat
-/bulk/fusion2/050Gfile8.dat
-/bulk/fusion2/050Gfile9.dat
 /bulk/fusion3/045Gfile.dat
 /bulk/fusion3/001Gfile.dat
 /bulk/fusion3/050Gfile10.dat
@@ -31,9 +25,6 @@
 /bulk/fusion3/050Gfile4.dat
 /bulk/fusion3/050Gfile5.dat
 /bulk/fusion3/050Gfile6.dat
-/bulk/fusion3/050Gfile7.dat
-/bulk/fusion3/050Gfile8.dat
-/bulk/fusion3/050Gfile9.dat
 /bulk/fusion4/045Gfile.dat
 /bulk/fusion4/001Gfile.dat
 /bulk/fusion4/050Gfile10.dat
@@ -43,6 +34,3 @@
 /bulk/fusion4/050Gfile4.dat
 /bulk/fusion4/050Gfile5.dat
 /bulk/fusion4/050Gfile6.dat
-/bulk/fusion4/050Gfile7.dat
-/bulk/fusion4/050Gfile8.dat
-/bulk/fusion4/050Gfile9.dat
